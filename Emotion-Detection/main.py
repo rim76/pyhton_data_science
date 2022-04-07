@@ -1,3 +1,4 @@
+#importing
 import cv2
 from deepface import DeepFace
 facecascade=cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.XML')
